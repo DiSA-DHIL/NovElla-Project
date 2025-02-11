@@ -41,8 +41,14 @@
      <back>
         <listPerson type="contributors">
            <head>Contributors</head>
-           <person>
-              
+           <person xml:id="SRS">
+              <persName>
+                 <forename>Sarah</forename>
+                 <surname>Revilla Sanchez</surname>
+                 <reg>Sarah Revilla-Sanchez</reg>
+                 
+              </persName>
+              <note><p>add biographical statement here</p></note>
            </person>
            <!--Enter in your details here, giving yourself an xml:id-->
            <!--     
